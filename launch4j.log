@@ -1,0 +1,40 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\hp\OneDrive\Desktop\fucked\kali\myproject\studentmanagement.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\hp\OneDrive\Desktop\fucked\kali\myproject\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Users\hp\OneDrive\Desktop\doc\.vscode\Falcon\MinGW\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Git\cmd;C:\GTK3\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\hp\AppData\Local\Microsoft\WindowsApps;C:\Users\hp\AppData\Local\JetBrains\PyCharm 2024.2.4\bin;C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\Nmap;C:\Program Files\Java\jdk-23\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Users\hp\OneDrive\Desktop\doc\.vscode\Falcon\MinGW\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Git\cmd;C:\GTK3\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\hp\AppData\Local\Microsoft\WindowsApps;C:\Users\hp\AppData\Local\JetBrains\PyCharm 2024.2.4\bin;C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\Nmap;C:\Program Files\Java\jdk-23\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Users\hp\OneDrive\Desktop\doc\.vscode\Falcon\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\160\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\160\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\GTK3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\hp\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\hp\AppData\Local\JetBrains\PyCharm 2024.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Nmap\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-23\bin\javac.exe (OK)
+Version string: 1.023.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "C:\Users\hp\OneDrive\Desktop\fucked\kali\myproject\studentmanagement.exe"
+Args length:	79/32768 chars
+Exit code:	0

@@ -1,0 +1,2 @@
+1001,milli,kawira,0789765434,computer science,illi@gmail
+1001 is assigned to course math242
