@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.ArrayList;
 
-public class Student {
+public class Student extends Person {
 
     // Instance of ReusableClass for printing messages
     
