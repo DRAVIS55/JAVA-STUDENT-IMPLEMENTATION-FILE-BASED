@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.ArrayList;
 
-public class Lecturer {
+public class Lecturer extends Person {
     private File file;
 
     // Constructor: Initialize file object
